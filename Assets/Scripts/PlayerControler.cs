@@ -29,5 +29,6 @@ public class PlayerControler : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        
      }
 }
