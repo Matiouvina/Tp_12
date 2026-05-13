@@ -12,7 +12,7 @@ public class CajaSpawner : MonoBehaviour
     {
         LocateBoxAddRandomPosition();
     }
-
+ 
     // Update is called once per frame
     void Update()
     {
